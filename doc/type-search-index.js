@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes","u":"allclasses-index.html"},{"p":"q3","l":"Fish"},{"p":"q3","l":"Jellyfish"},{"p":"q2","l":"Location"},{"p":"q3","l":"MultiColorFish"},{"p":"q1","l":"MyDate"},{"p":"start","l":"Program"},{"p":"q3","l":"Swimmable"},{"p":"q2","l":"Temperature"},{"p":"q3","l":"UnusualFish"},{"p":"start","l":"Utility"}];updateSearchResults();
