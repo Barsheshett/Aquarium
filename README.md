@@ -18,3 +18,6 @@ Test thoroughly to verify proper functionality and appearance.
 Keep track of changes made during implementation.
 Document any significant updates or challenges faced during integration.
 Seek assistance or clarification if needed from course instructors or peers.
+
+![Design Templates](pic.png)
+
