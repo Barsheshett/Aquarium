@@ -16,7 +16,8 @@ To run this project, you will need to add the following environment variables to
 
 `JAVA Swing`
 
-##image:
+## image:
+
 <img src="pic.png" alt="Alt Text" width="500" height="300">
 
 
