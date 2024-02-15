@@ -8,16 +8,14 @@ The exercise focuses on the implementation of several design templates using the
 Implementation of several design templates.
 Integrating the design templates with the realization of the third work.
 
-# Instructions
-Review the provided design templates.
-Implement the design templates into the existing codebase.
-Ensure seamless integration with the functionality from the third exercise.
-Test thoroughly to verify proper functionality and appearance.
+## Environment Variables
 
-# Additional Notes
-Keep track of changes made during implementation.
-Document any significant updates or challenges faced during integration.
-Seek assistance or clarification if needed from course instructors or peers.
+To run this project, you will need to add the following environment variables to your .env file
 
+`JDK`
+
+`JAVA Swing`
+
+<img src="pic.png" alt="Alt Text" width="300" height="200">
 ![Design Templates](pic.png)
 
